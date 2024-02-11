@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 So far, I have HTML, CSS, JavaScript, and React under my belt. I'm currently learning Node.js. And I'm not going to stop improving my skills and capabilities.
-👯 I'm looking forward to becoming a part of some great projects and am excited to collaborate with experienced developers.
-📫 How to reach me: [...](https://www.linkedin.com/in/alisa-bondarenko/)https://www.linkedin.com/in/alisa-bondarenko/
+- 🌱 So far, I have HTML, CSS, JavaScript, and React under my belt. I'm currently learning Node.js. And I'm not going to stop improving my skills and capabilities.
+- 👯 I'm looking forward to becoming a part of some great projects and am excited to collaborate with experienced developers.
+- 📫 How to reach me: [...](https://www.linkedin.com/in/alisa-bondarenko/)https://www.linkedin.com/in/alisa-bondarenko/
 
-[...](https://www.codewars.com/users/AliceBondMe/badges/large)https://www.linkedin.com/in/alisa-bondarenko/
+![Codewars](https://github.r2v.ch/codewars?user=AliceBondMe89&stroke=%23BB432C)
