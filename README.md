@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 👯 I'm looking forward to becoming a part of some great projects and am excited to collaborate with experienced developers.
 - 📫 How to reach me: [...](https://www.linkedin.com/in/alisa-bondarenko/)https://www.linkedin.com/in/alisa-bondarenko/
 
-![Codewars](https://github.r2v.ch/codewars?user=AliceBondMe&stroke=%23BB432C)
+![Codewars](https://www.codewars.com/users/AliceBondMe/badges/large)
