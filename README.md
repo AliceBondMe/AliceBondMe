@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 👯 I'm looking forward to becoming a part of some great projects and am excited to collaborate with experienced developers.
 - 📫 How to reach me: [...](https://www.linkedin.com/in/alisa-bondarenko/)https://www.linkedin.com/in/alisa-bondarenko/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceBondMe&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceBondMe&show_icons=true&theme=dark)-->
 
 ![Codewars](https://www.codewars.com/users/AliceBondMe/badges/large)
