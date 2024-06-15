@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 So far, I have HTML, CSS, JavaScript, and React under my belt. I'm currently learning Node.js. And I'm not going to stop improving my skills and capabilities.
+- 🌱 So far, I have HTML, CSS, JavaScript, TypeScript and React under my belt. I'm also familiar with Node.js. And I'm not going to stop improving my skills and capabilities.
 - 👯 I'm looking forward to becoming a part of some great projects and am excited to collaborate with experienced developers.
 - 📫 How to reach me: [...](https://www.linkedin.com/in/alisa-bondarenko/)https://www.linkedin.com/in/alisa-bondarenko/
 
